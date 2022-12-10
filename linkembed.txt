@@ -1,0 +1,11 @@
+1. install fiddler di pc
+2. install extension fiddler di chrome
+3. start debug
+4. cari embed url hasil debug
+ini hasilnyah:
+https://gdriveplayer.to/embed2.php?link=rHgtKfyP7HdU1RHOLSwxPg0LbeMbQkjilsm5MLUSAZ2pJFG06Du%252FEhzSZdaJ2tAtWwa0NpRu87hoCt1srSHB0cG4q0b033JB8HAInT571LdNBsiNwFCi9vHyk28ZFvZvuOg3%252FaFkVcEZ500vLvnGvIOyoKCBPMIjQYbKwUEcMEZ%252BJzW8NwdSjbndOzaNwMa02%252F5HfQthcJ1xds%252Fi0xwiS2BibbQ57KG7FhvKlUZqtr6vDtEfkJJGH%252BzgEUNomjKiCEp3s4MPo8yy4vNHDpHq91f71oSIhyXWVit3eOBehQD4cAENSlaAY%252FsjOp71Mp9zzkuDn1qlAZZx%252Bnb6BYH6WyETz3uZmuTgSxQ0MAM3Vqrks%252FXMSO3dT%252BHceGqM3RYNcdjghax5ETCvhQk46Tws4cQ1I6Xpctf8gFvr4q%252F8qLBQ%253D%253D
+
+
+5. buat iframe diweb kita isikan embed url itu
+
+dengan beginih kita gk perlu sewa storage
